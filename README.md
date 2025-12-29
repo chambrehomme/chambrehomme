@@ -1,4 +1,15 @@
-## Hi there 👋
+## bonjour!
+
+- 🔐 I am currently learning more about application security
+  
+- Languages:
+  - 🐍 Python
+  - ☕️ Java
+  - 🔧 C
+  - ⚙️ Assembly
+  - 📜 JavaScript
+  - 🧚‍♀️ TypeScript
+
 
 <!--
 **chambrehomme/chambrehomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
