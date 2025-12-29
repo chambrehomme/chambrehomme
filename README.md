@@ -1,6 +1,6 @@
 ## bonjour!
 
-- 🔐 I am currently learning more about application security
+- I am currently learning more about application security
   
 - Languages:
   - 🐍 Python
