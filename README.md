@@ -5,8 +5,8 @@ Passionate about software development, AI/ML, and cybersecurity.
 
 📝 Recently, I've started blogging occasionally: [Blog](https://chambrehomme.github.io/)
 
-### Current Side Project
-**Sudoku App:** Kotlin Multiplatform app for Android and iOS (Side Project)
+## Current Side Project
+**[Sudocool](https://github.com/chambrehomme/sudocool)** Sudoku app with Kotlin Multiplatform for Android and iOS (Side Project)
 
 ---
 
